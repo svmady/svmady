@@ -1,61 +1,83 @@
-# 👋 Hey there! I'm Eyad Abdelsamad
+# 👋 Hey, I'm Eyad Abdelsamad  
 
-### 💻 Software Engineering Student @ International Branch of Cairo University (IBCU)
+### 💻 Software Engineering Student | React Developer | IBM Full-Stack Trainee  
 
-I'm currently studying Computer Software Engineering (Class of 2028) and exploring the world of tech, one project at a time. I love writing code, learning new tools, and turning small ideas into something real and useful.
-
----
-
-## 🚀 About Me
-
-- 🧠 Always learning and building
-- 👨‍💻 Currently focused on **Python**, **basic web dev**, and **problem-solving**
-- 📈 Interested in **backend development**, **full-stack workflows**, and **collaborative tech**
-- 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/samady)
+I’m a Software Engineering student at **Cairo University – International Branch (IBCU)** (Class of 2028), currently building strong full-stack foundations through the **IBM Full Stack Software Developer Professional Certificate**.
+I’m also a **React Developer Trainee at DEPI (Digital Egypt Pioneers Initiative)**, focusing on building interactive web applications and strengthening real-world development skills.
+I love turning ideas into working software and improving a little every single day 🚀
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I’m Focused On
 
-- **Languages:** Python, C++ (basic), Java (beginner)
-- **Concepts:** Programming basics, control flow, data entry systems
-- **Tools:** Excel, Git/GitHub (learning), VS Code
-- **Soft Skills:** Teamwork, communication, attention to detail
+- ⚛️ Building responsive interfaces with **React**
+- 🌐 Strengthening HTML, CSS & JavaScript fundamentals
+- 🟢 Learning backend development with **Node.js & Express**
+- 🔄 Practicing Git workflows & collaborative development
+- 🧠 Improving logic and problem-solving through projects
 
 ---
 
-## 📚 Education
+## 🛠️ Tech Stack
 
-🎓 **Cairo University (IBCU)**  
+### 💡 Languages
+- JavaScript  
+- Python  
+- C++ (Foundations)  
+
+### ⚛️ Frontend
+- React  
+- HTML5  
+- CSS3  
+
+### 🖥️ Backend
+- Node.js  
+- Express.js  
+
+### 🔧 Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 💼 Current Experience
+
+### ⚛️ React Developer Trainee — Digital Egypt Pioneers Initiative (DEPI)  
+📍 Cairo, Egypt | Nov 2025 – Present  
+
+- Training in frontend development principles  
+- Building structured web applications  
+- Applying modern coding standards  
+- Collaborating in guided development sessions  
+
+---
+
+## 🎓 Education
+
+**Cairo University – International Branch (IBCU)**  
 Bachelor’s in Computer Software Engineering  
-*Aug 2024 – Aug 2028*
-
----
-
-## 💼 Experience
-
-**🧾 Data Entry Clerk @ Knights Shipping Services**  
-*Cairo, Egypt | Jan 2023 – Aug 2024*
-
-- Entered logistics data into internal systems  
-- Used Excel to organize and update shipping records  
-- Worked with the team to correct errors and improve workflow  
-- Helped keep operations clean, clear, and on track  
+Oct 2024 – Jun 2028  
 
 ---
 
 ## 📜 Certifications
 
-- Python Essentials 1 (Cisco)
-- Python (Basic) - HackerRank
-- Professional Foundations - ALX
+- IBM Full Stack Software Developer (In Progress)  
+- Developing Front-End Apps with React  
+- Developing Back-End Apps with Node.js & Express  
+- Introduction to Web Development (HTML, CSS, JavaScript)  
+- Getting Started with Git and GitHub  
+- Introduction to Software Engineering  
 
 ---
 
-## ✨ Fun Fact
+## 🎯 Career Direction
 
-I believe learning by doing is the best way to grow. Whether it’s building a small script or figuring out how a framework works, I’m always down to explore and share what I learn 💡
+Becoming a **Full-Stack Software Engineer** capable of building scalable, clean, and user-focused applications.
 
 ---
 
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
+## 🌍 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/samady/
+- 📧 Email: eyadsamady14@gmail.com
